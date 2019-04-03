@@ -8,7 +8,7 @@
 | 3 | [Description](https://github.com/Vectrom/oop_labs/blob/master/lab3/ftest.cpp) | [Solution](https://github.com/Vectrom/oop_labs/blob/master/lab3/) |
 | 4 | [Description](https://github.com/Vectrom/oop_labs/blob/master/lab4/ltest.cpp) | [Solution](https://github.com/Vectrom/oop_labs/blob/master/lab4/) |
 | 5 | soon | soon |
-| 6 | soon | soon |
+| 6 | [Description](https://github.com/Vectrom/oop_labs/blob/master/lab6/mtest.cpp) | [Solution](https://github.com/Vectrom/oop_labs/blob/master/lab6/) |
 | 7 | soon | soon |
 | 8 | soon | soon |
 | 9 | soon | soon |
